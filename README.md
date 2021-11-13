@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🌐I specialize in web development, I know:
+## 🌐I specialize in web development, I know how to use:
 
 <hr/>
 
@@ -25,9 +25,6 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
-
-
- <!-- ### HTML, CSS<img src="global/images/coding-language-icons/css-file-icon.png" alt="CSS file icon" style="margin-bottom: -0.125rem; width: 1rem;"/>, JavaScript<img src="global/images/coding-language-icons/javascript-file-icon.png" alt="Javascript file icon" style="margin-bottom: -0.125rem; width: 1rem;"/>, and a little bit of Markdown. -->
 
 <br/>
 
@@ -61,13 +58,13 @@
 
 <hr/>
 
-- [<img src="global/images/contact-icons/github-icon.png" alt="github icon" style="width:1.25rem; margin-bottom: -0.2rem;"/> 6cpsmidnight](https://github.com/6cpsmidnight "my Github profile")
+- [<img src="global/images/contact-icons/github-icon.png" alt="github icon" style="width:1rem; margin-bottom: -0.125rem;"/> 6cpsmidnight](https://github.com/6cpsmidnight "my Github profile")
 
-- [<img src="global/images/contact-icons/gmail-icon.png" alt="gmail icon" style="width:1.25rem; margin-bottom: -0.2rem;"/> farlineagan@gmail.com](mailto:farlineagan@gmail.com "my professional email")
+- [<img src="global/images/contact-icons/gmail-icon.png" alt="gmail icon" style="width:1rem; margin-bottom: -0.125rem;"/> farlineagan@gmail.com](mailto:farlineagan@gmail.com "my professional email")
 
-- <img src="global/images/contact-icons/discord-icon.png" alt="discord icon" title="my Discord tag" style="width:1.25rem; margin-bottom: -0.2rem;"/> midnight#1695
+- <img src="global/images/contact-icons/discord-icon.png" alt="discord icon" title="my Discord tag" style="width:1rem; margin-bottom: -0.125rem;"/> midnight#1695
 
--   [<img src="global/images/contact-icons/site-file-icon.png" alt="eaganfarlin.com site icon" style="width: 1.25rem; height: 1.25rem; margin-bottom: -0.2rem;"/><span style="padding-left: 0.25rem;">eaganfarlin.com</span>](https://eaganfarlin.com "my website")
+-   [<img src="global/images/contact-icons/site-file-icon.png" alt="eaganfarlin.com site icon" style="width: 1rem; height: 1rem; margin-bottom: -0.125rem;"/><span style="padding-left: 0.25rem;">eaganfarlin.com</span>](https://eaganfarlin.com "my website")
 
 <br/>
 
