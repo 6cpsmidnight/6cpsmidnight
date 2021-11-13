@@ -46,11 +46,11 @@
 
 <hr/>
 
-- <img src="global/images/hobby-icons/coding-icon.png" alt="coding" style="width: 1rem; margin-bottom: -0.15rem;"/> Coding
+- ### <img src="global/images/hobby-icons/coding-icon.png" alt="coding" style="width: 1rem; margin-bottom: -0.15rem;"/> Coding
 
-- <img src="global/images/hobby-icons/mma-icon.png" alt="M.M.A." style="width:1rem; margin-bottom: -0.125rem;"/> M.M.A.
+- ### <img src="global/images/hobby-icons/mma-icon.png" alt="M.M.A." style="width:1rem; margin-bottom: -0.125rem;"/> M.M.A.
 
-- <img src="global/images/hobby-icons/calesthenics-icon.png" alt="calesthenics" style="width:1rem; margin-bottom: -0.125rem;"/> Calesthenics
+- ### <img src="global/images/hobby-icons/calesthenics-icon.png" alt="calesthenics" style="width:1rem; margin-bottom: -0.125rem;"/> Calesthenics
 
 <br/>
 
@@ -58,13 +58,13 @@
 
 <hr/>
 
-- [<img src="global/images/contact-icons/github-icon.png" alt="github icon" style="width:1rem; margin-bottom: -0.125rem;"/> 6cpsmidnight](https://github.com/6cpsmidnight "my Github profile")
+- ### [<img src="global/images/contact-icons/github-icon.png" alt="github icon" style="width:1rem; margin-bottom: -0.05rem;"/> 6cpsmidnight](https://github.com/6cpsmidnight "my Github profile")
 
-- [<img src="global/images/contact-icons/gmail-icon.png" alt="gmail icon" style="width:1rem; margin-bottom: -0.125rem;"/> farlineagan@gmail.com](mailto:farlineagan@gmail.com "my professional email")
+- ### [<img src="global/images/contact-icons/gmail-icon.png" alt="gmail icon" style="width:1rem; margin-bottom: -0.125rem;"/> farlineagan@gmail.com](mailto:farlineagan@gmail.com "my professional email")
 
-- <img src="global/images/contact-icons/discord-icon.png" alt="discord icon" title="my Discord tag" style="width:1rem; margin-bottom: -0.125rem;"/> midnight#1695
+- ### <img src="global/images/contact-icons/discord-icon.png" alt="discord icon" title="my Discord tag" style="width:1rem; margin-bottom: -0.125rem;"/> midnight#1695
 
--   [<img src="global/images/contact-icons/site-file-icon.png" alt="eaganfarlin.com site icon" style="width: 1rem; height: 1rem; margin-bottom: -0.125rem;"/><span style="padding-left: 0.25rem;">eaganfarlin.com</span>](https://eaganfarlin.com "my website")
+- ### [<img src="global/images/contact-icons/site-file-icon.png" alt="eaganfarlin.com site icon" style="width: 1rem; height: 1rem; margin-bottom: -0.125rem;"/><span style="padding-left: 0.25rem;">eaganfarlin.com</span>](https://eaganfarlin.com "my website")
 
 <br/>
 
