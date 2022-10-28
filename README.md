@@ -1,8 +1,4 @@
-# **6cpsmidnight📝**
-
-### <img src="https://media.giphy.com/media/d5JAHNi6NA4Q8v69kK/giphy.gif" alt="giphy gif of elf waving" style="width: 5rem;"/> <span>📖Dear whoever is reading this, I am 6cpsmidnight, but you can call me Midnight.</span>
-
-<hr/>
+# **6cpsmidnight[<img src="https://media.giphy.com/media/d5JAHNi6NA4Q8v69kK/giphy.gif" alt="giphy gif of elf waving" style="width: 2rem; margin-bottom: -0.5rem;"/>](https://giphy.com/stickers/elf-wichtel-weihnachtself-d5JAHNi6NA4Q8v69kK)**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=6cpsmidnight&count_private=true&showicons=true)
 
@@ -10,7 +6,7 @@
 
 <br/>
 
-## 🌐I specialize in web development, I know how to use:
+## 🌐I specialize in web development, I know farmiliar with:
 
 <hr/>
 
@@ -68,7 +64,7 @@
 
 <br/>
 
-### ✌️Thank you for reading this, I hope you have a good rest of your life!
+### ✌️Thanks for reading this
 
 <br/>
 
@@ -80,8 +76,4 @@
 
 <hr/>
 
-#### Thanks to [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect), for making some of these icons, and to [Freepik](https://www.flaticon.com/authors/freepik), for making the [Files types icon pack](https://www.flaticon.com/packs/files-types-2) (specifically the linear color version used in this page), both of which are [Flaticon](https://flaticon.com/) authors.
-
-<br>
-
-#### Also thanks to [leart (@leart_alert)](https://giphy.com/leart_alert), a [Giphy](https://giphy.com) artist/designer.
+#### Thanks to [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) for making some of the icons found in this page.
