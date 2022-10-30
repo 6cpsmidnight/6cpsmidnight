@@ -6,7 +6,7 @@
 
 <br/>
 
-## 🌐I specialize in web development, I know farmiliar with:
+## 🌐I specialize in web development, I am farmiliar with:
 
 <hr/>
 
@@ -16,37 +16,12 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
-
-<br/>
-
-## 🛠️I am currently working on:
-
-<hr/>
-
-1. [Youtey](https://github.com/6cpsmidnight/Youtey "Youtey repository")
-   <br/>
-   ![Youtey respository information card](https://github-readme-stats.vercel.app/api/pin/?username=6cpsmidnight&repo=youtey&layout=compact&showicons=true)
-
-2. [eaganfarlinDOTcom](https://github.com/6cpsmidnight/eaganfarlinDOTcom "eaganfarlin.com repository")
-   <br/>
-   ![eaganfarlinDOTcom respository information card](https://github-readme-stats.vercel.app/api/pin/?username=6cpsmidnight&repo=eaganfarlinDOTcom&layout=compact&showicons=true)
-
-<br/>
-
-## ⛱️My hobbies are:
-
-<hr/>
-
-- ### <img src="global/images/hobby-icons/coding-icon.png" alt="coding" style="width: 1rem; margin-bottom: -0.15rem;"/> Coding
-
-- ### <img src="global/images/hobby-icons/mma-icon.png" alt="M.M.A." style="width:1rem; margin-bottom: -0.125rem;"/> M.M.A.
-
-- ### <img src="global/images/hobby-icons/calesthenics-icon.png" alt="calesthenics" style="width:1rem; margin-bottom: -0.125rem;"/> Calesthenics
 
 <br/>
 
@@ -70,10 +45,10 @@
 
 ### *Sincerely,*
 
-### *Eagan (6cpsmidnight)*
+### *6cpsmidnight*
 
 <br/>
 
 <hr/>
 
-#### Thanks to [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) for making some of the icons found in this page.
+#### Thanks to [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) for making some of the icons found in the contacts section.
