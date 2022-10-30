@@ -6,7 +6,7 @@
 
 <br/>
 
-## 🌐I specialize in web development, I am farmiliar with:
+## 💻I specialize in web development, I am farmiliar with:
 
 <hr/>
 
