@@ -1,6 +1,6 @@
 # **Eagan Farlin**
 
-## Developer
+Web + AI Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eaganfarlin&count_private=true&showicons=true)
 
@@ -11,13 +11,13 @@
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
 
-### Contact me:
+Contact me:
 
-### [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email")
+[farlineagan@gmail.com](mailto:farlineagan@gmail.com "email")
 
 <br/>
 <hr/>
 
-### Best regards,
+Best regards,
 
-### Eagan Farlin
+Eagan Farlin
