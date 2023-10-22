@@ -2,6 +2,8 @@
 
 Web + AI Developer
 
+<hr/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eaganfarlin&count_private=true&showicons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaganfarlin&layout=compact&showicons=true)
@@ -15,7 +17,6 @@ Contact me:
 
 [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email")
 
-<br/>
 <hr/>
 
 Best regards,
