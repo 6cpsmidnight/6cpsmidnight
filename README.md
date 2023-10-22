@@ -5,6 +5,7 @@ Web + AI Developer
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eaganfarlin&count_private=true&showicons=true)
