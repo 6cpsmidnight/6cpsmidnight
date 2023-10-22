@@ -16,7 +16,7 @@ Contact me:
 
 [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email")
 
-<hr/>
+<br/>
 
 Best regards,
 
