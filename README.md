@@ -1,6 +1,7 @@
 # **Eagan Farlin**
 
 Web + AI Developer
+Website: [eaganfarlin.com](https://eaganfarlin.com)
 
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
@@ -12,7 +13,7 @@ Web + AI Developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaganfarlin&layout=compact&showicons=true)
 
-Contact me:
+Contact me for job positions or projects:
 
 [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email")
 
