@@ -15,8 +15,6 @@ Website: [eaganfarlin.com](https://eaganfarlin.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaganfarlin&layout=compact&theme=transparent&showicons=true)
 
-[![Eagan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eaganfarlin)](https://github.com/eaganfarlin/github-readme-stats)
-
 Contact me for job positions or projects:
 
 [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email")
