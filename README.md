@@ -1,6 +1,6 @@
 # **Eagan Farlin**
 
-### Web + AI Developer
+Web + AI Developer
 
 <br/>
 
