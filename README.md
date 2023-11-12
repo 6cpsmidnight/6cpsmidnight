@@ -1,6 +1,6 @@
 # **Eagan Farlin**
 
-#### Web + AI Developer
+Web + AI Developer
 
 <br/>
 
@@ -12,6 +12,6 @@
 ![](https://img.shields.io/badge/Next_14-informational?style=flat&logo=nextdotjs&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
 
-#### Website: [eaganfarlin.com](https://eaganfarlin.com)
+Website: [eaganfarlin.com](https://eaganfarlin.com)
 
-#### Ready to elevate your team or project? Reach out to me at [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email") and let's make it happen!
+Ready to elevate your team or project? Reach out to me at [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email") and let's make it happen!
