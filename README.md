@@ -15,10 +15,6 @@ Website: [eaganfarlin.com](https://eaganfarlin.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaganfarlin&layout=compact&theme=transparent&showicons=true)
 
-Ready to elevate your team or project? Reach out to me at [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email") and let's make it happen!
-
 <br/>
 
-Best regards,
-
-Eagan Farlin
+Ready to elevate your team or project? Reach out to me at [farlineagan@gmail.com](mailto:farlineagan@gmail.com "email") and let's make it happen!
