@@ -16,6 +16,7 @@ Web + AI Developer
 ![](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=nodedotjs)
 ![](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Next_14-grey?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-grey.svg?style=for-the-badge&logo=tailwind-css)
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/Netlify-grey?style=for-the-badge&logo=netlify)
 ![](https://img.shields.io/badge/Vercel-grey?style=for-the-badge&logo=vercel)
