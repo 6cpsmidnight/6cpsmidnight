@@ -2,15 +2,27 @@
 
 Web + AI Developer
 
-Website: [eaganfarlin.com](https://eaganfarlin.com)
+## Languages
 
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/Next_14-informational?style=flat&logo=nextdotjs&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&&abelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
 
-Success is within reach – don't let it slip away! As a dedicated professional available for hire and eager to make a difference, I invite you to take the next step. [Email me](mailto:farlineagan@gmail.com) to discuss how I can contribute to your success.
+## Frameworks & Tools
+
+![](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/Next_14-white?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/Netlify-white?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+![](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4f4f4f&color=3f3f3f)
+
+## Connect With Me
+
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eagan-farlin/)
+[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@eaganfarlin/)
+[![](https://img.shields.io/badge/Website-black?style=for-the-badge)](https://eaganfarlin.com)
+https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
