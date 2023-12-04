@@ -30,7 +30,3 @@ Web + AI Developer
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eagan-farlin/)
 [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@eaganfarlin/)
 [![](https://img.shields.io/badge/Website-black?style=for-the-badge)](https://eaganfarlin.com)
-
-<br />
-
-[![](https://visitcount.itsvg.in/api?id=6cpsmidnight&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
