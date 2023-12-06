@@ -25,7 +25,7 @@ Web + AI Developer
 ![](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma)
 ![](https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva)
 
-## Connect With Me
+## Connect With Me 🔗
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eagan-farlin/)
 [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@eaganfarlin/)
