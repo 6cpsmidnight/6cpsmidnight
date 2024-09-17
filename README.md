@@ -22,8 +22,6 @@ Web + AI Developer
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/Netlify-grey?style=for-the-badge&logo=netlify)
 ![](https://img.shields.io/badge/Vercel-grey?style=for-the-badge&logo=vercel)
-![](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma)
-![](https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva)
 
 ## Connect With Me 🔗
 
